@@ -1,0 +1,10 @@
+id: TarefaTres
+language: CSharp
+name:
+  Default: TarefaTres
+qualifiedName:
+  Default: TarefaTres
+type: Assembly
+modifiers: {}
+items: []
+references: {}

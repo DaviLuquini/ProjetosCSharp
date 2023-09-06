@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TarefaTres</name>
+    </assembly>
+    <members>
+        <member name="M:TarefaTres.ExecFunc.ExecutarFuncionario">
+            <summary>
+            Esta Class pega o nome e o salario do funcionario1 e funcionario2 e verifica qual é o salario medio
+            </summary>
+        </member>
+        <member name="M:TarefaTres.ExecPessoa.ExecutarPessoa">
+            <summary>
+            Esta Class pega o nome e a idade da pessoa1 e pessoa2 e verifica qual é a mais velha
+            </summary>
+        </member>
+    </members>
+</doc>

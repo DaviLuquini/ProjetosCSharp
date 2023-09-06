@@ -1,0 +1,108 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Ciro/OneDrive/Área de Trabalho/.NET codigos/PrimeiroProjeto/TarefaTres",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.ExecFunc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.ExecFunc.html",
+          "hash": "3+9eDSr5G8EPMRc9YSiRPKinc9ApGPOjXhhAbnDbI2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.Funcionario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.Funcionario.html",
+          "hash": "Q5iaD4KiHgMSLI9VGDnl4QPQeSKjLa1rmcTUIHgWWtQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.Pessoa.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.Pessoa.html",
+          "hash": "A5IaQpM/dvpS2hpiyChO+ZWiWuELuFYXqBu3htUbOfU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.html",
+          "hash": "MHnnQeg827uQ0h650QqaVlpaelkf+1WC3/Al7T2FjsY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Bwyditq01rucOHHnLBaZkM0vWwhSItYjWLMEhyxZsYY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 3
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

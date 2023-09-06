@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKVf1bo3hLUtQ/n67VJXO3lpjphfDEWoW54LONMuS3U4Q4J3hVUXeGLFfDoZ/4XKl8AqjCHjG0TWvajrslqJeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ciro\\OneDrive\\Área de Trabalho\\.NET codigos\\PrimeiroProjeto\\TarefaTres\\TarefaTres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ciro\\.nuget\\packages\\docfx.console\\2.59.4\\docfx.console.2.59.4.nupkg.sha512"
+  ],
+  "logs": []
+}

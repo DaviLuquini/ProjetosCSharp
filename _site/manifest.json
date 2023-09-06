@@ -1,0 +1,66 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Ciro/OneDrive/Área de Trabalho/.NET codigos/PrimeiroProjeto/TarefaTres",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.ExecFunc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.ExecFunc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.Funcionario.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.Funcionario.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.Pessoa.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.Pessoa.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TarefaTres.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TarefaTres.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
