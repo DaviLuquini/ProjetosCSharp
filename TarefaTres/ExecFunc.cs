@@ -2,7 +2,13 @@
 
 
 namespace TarefaTres {
-    class ExecFunc {
+    /// <summary>
+    /// Classe ExecFunc
+    /// </summary>
+    public class ExecFunc {
+        /// <summary>
+        /// Esta Class pega o nome e o salario do funcionario1 e funcionario2 e verifica qual é o salario medio
+        /// </summary>
         public static void ExecutarFuncionario() {
             Funcionario funcionario1, funcionario2;
 

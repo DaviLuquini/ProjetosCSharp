@@ -2,7 +2,10 @@
 
 namespace TarefaTres {
     class ExecPessoa {
-         public static void ExecutarPessoa() {
+        /// <summary>
+        /// Esta Class pega o nome e a idade da pessoa1 e pessoa2 e verifica qual é a mais velha
+        /// </summary>
+        public static void ExecutarPessoa() {
 
             Pessoa pessoa1, pessoa2;
 

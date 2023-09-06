@@ -1,0 +1,23 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Ciro/OneDrive/Área de Trabalho/.NET codigos/PrimeiroProjeto",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

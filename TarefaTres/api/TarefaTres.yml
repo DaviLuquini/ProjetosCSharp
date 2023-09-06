@@ -1,0 +1,40 @@
+### YamlMime:ManagedReference
+items:
+- uid: TarefaTres
+  commentId: N:TarefaTres
+  id: TarefaTres
+  children:
+  - TarefaTres.ExecFunc
+  - TarefaTres.Funcionario
+  - TarefaTres.Pessoa
+  langs:
+  - csharp
+  - vb
+  name: TarefaTres
+  nameWithType: TarefaTres
+  fullName: TarefaTres
+  type: Namespace
+  assemblies:
+  - TarefaTres
+references:
+- uid: TarefaTres.ExecFunc
+  commentId: T:TarefaTres.ExecFunc
+  isExternal: true
+  href: TarefaTres.ExecFunc.html
+  name: ExecFunc
+  nameWithType: ExecFunc
+  fullName: TarefaTres.ExecFunc
+- uid: TarefaTres.Funcionario
+  commentId: T:TarefaTres.Funcionario
+  isExternal: true
+  href: TarefaTres.Funcionario.html
+  name: Funcionario
+  nameWithType: Funcionario
+  fullName: TarefaTres.Funcionario
+- uid: TarefaTres.Pessoa
+  commentId: T:TarefaTres.Pessoa
+  isExternal: true
+  href: TarefaTres.Pessoa.html
+  name: Pessoa
+  nameWithType: Pessoa
+  fullName: TarefaTres.Pessoa
