@@ -1,0 +1,15 @@
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\bin\Debug\net7.0\freeCodeUm.exe
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\bin\Debug\net7.0\freeCodeUm.deps.json
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\bin\Debug\net7.0\freeCodeUm.runtimeconfig.json
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\bin\Debug\net7.0\freeCodeUm.dll
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\bin\Debug\net7.0\freeCodeUm.pdb
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.AssemblyInfoInputs.cache
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.AssemblyInfo.cs
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.csproj.CoreCompileInputs.cache
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.sourcelink.json
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.dll
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\refint\freeCodeUm.dll
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.pdb
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\freeCodeUm.genruntimeconfig.cache
+D:\.NETcodigos\PrimeiroProjeto\freeCodeCurso\freeCodeUm\freeCodeUm\obj\Debug\net7.0\ref\freeCodeUm.dll
