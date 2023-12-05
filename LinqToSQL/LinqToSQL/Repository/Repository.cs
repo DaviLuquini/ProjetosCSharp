@@ -1,29 +1,43 @@
-﻿
-using LinqToSQL.Entities;
+﻿using LinqToSQL.Entities;
 
-namespace LinqToSQL.Repository
-{
-    public class Repository : IRepository
-    {
-        private readonly List<Custumer> custumers = new List<Custumer>();
+namespace LinqToSQL.Repository {
+    public class Repository : IRepository {
+        private readonly List<Customer> customers = new List<Customer>();
 
-        public int AddCustomer(Custumer custumer)
-        {
-            custumers.Add(custumer);
-
-            return custumer.Id;
+        public int AddCustomer(Customer customer) {
+            customers.Add(customer);
+            return customer.Id;
         }
 
-        public int GetAllCustumers()
-        {
-            return custumers.Count;
+        public int GetAllCustomers() {
+            return customers.Count;
         }
 
-        public void RemoveCustomer(int customerId)
-        {
-            var custumerToBeRemoved = custumers.Find(c => c.Id == customerId);
+        public void VerifyCustomerName(int customerId) {
+            Customer customerToVerifyName = (from c in customers
+                                             where c.Id == customerId
+                                             select c).SingleOrDefault();
+            if (customerToVerifyName != null) {
+                Console.WriteLine(customerToVerifyName.Name);
+            }
+            else {
+                Console.WriteLine("Customer not found");
+            }
+        }
 
-            custumers.Remove(custumerToBeRemoved);
+        public void RemoveCustomer(int customerId) {
+            var customerToBeRemoved = customers.Find(c => c.Id == customerId);
+
+            customers.Remove(customerToBeRemoved);
+        }
+        public void CustomerOrder(List<Customer> customer) {
+            var customerOrder = customer
+                .OrderBy(x => x.Name)
+                .ToList();
+
+            foreach (var item in customerOrder) {
+                Console.Write(item.Name + ", ");
+            }
         }
     }
 }
