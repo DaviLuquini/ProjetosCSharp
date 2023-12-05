@@ -1,0 +1,15 @@
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\bin\Release\net8.0\LinqToSQL.exe
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\bin\Release\net8.0\LinqToSQL.deps.json
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\bin\Release\net8.0\LinqToSQL.runtimeconfig.json
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\bin\Release\net8.0\LinqToSQL.dll
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\bin\Release\net8.0\LinqToSQL.pdb
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.AssemblyInfoInputs.cache
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.AssemblyInfo.cs
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.csproj.CoreCompileInputs.cache
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.sourcelink.json
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.dll
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\refint\LinqToSQL.dll
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.pdb
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\LinqToSQL.genruntimeconfig.cache
+D:\.NETcodigos\PrimeiroProjeto\LinqToSql\LinqToSql\DbInMemory\LinqToSQL\LinqToSQL\obj\Release\net8.0\ref\LinqToSQL.dll
