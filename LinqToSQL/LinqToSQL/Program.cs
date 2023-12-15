@@ -58,6 +58,7 @@ public class Program {
             Console.Write("Americanas Customers in alphabetical order: ");
             americanasRepository.CustomerOrder(americanasCustomers);
             americanasRepository.RemoveCustomer(1);
+            Console.WriteLine("");
             Console.WriteLine("1 Americanas customer removed, new total customers = " + stores[1].CalculateTotalCustomers());
         }
     }

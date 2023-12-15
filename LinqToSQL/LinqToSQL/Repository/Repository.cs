@@ -2,18 +2,27 @@
 
 namespace LinqToSQL.Repository {
     public class Repository : IRepository {
-        private readonly List<Customer> customers = new List<Customer>();
+        public readonly List<Customer> customers = new List<Customer>();
 
         public int AddCustomer(Customer customer) {
+            if (customer == null) 
+                throw new ArgumentNullException(nameof(customer));
+            
             customers.Add(customer);
             return customer.Id;
         }
 
-        public int GetAllCustomers() {
+        public int CountAllCustomers() {
             return customers.Count;
         }
+        public List<Customer> GetAllCustomers() {
+            return customers.ToList();
+        }
 
-        public void VerifyCustomerName(int customerId) {
+        public string VerifyCustomerName(int customerId) {
+            if (customerId < 0)
+                throw new ArgumentOutOfRangeException(nameof(customerId));
+
             Customer customerToVerifyName = (from c in customers
                                              where c.Id == customerId
                                              select c).SingleOrDefault();
@@ -23,9 +32,13 @@ namespace LinqToSQL.Repository {
             else {
                 Console.WriteLine("Customer not found");
             }
+            return customerToVerifyName.Name;
         }
 
         public void RemoveCustomer(int customerId) {
+            if (customerId < 0)
+                throw new ArgumentOutOfRangeException(nameof(customerId));
+
             var customerToBeRemoved = customers.Find(c => c.Id == customerId);
 
             customers.Remove(customerToBeRemoved);

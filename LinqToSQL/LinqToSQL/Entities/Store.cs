@@ -10,7 +10,7 @@ namespace LinqToSQL.Entities
     
         public int CalculateTotalCustomers()
         {   
-            return Repository.GetAllCustomers();
+            return Repository.CountAllCustomers();
         }
     }
 }

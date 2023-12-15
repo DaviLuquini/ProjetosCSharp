@@ -6,8 +6,9 @@ namespace LinqToSQL.Repository
     {
         int AddCustomer(Customer customer);
         void RemoveCustomer(int customerId);
-        int GetAllCustomers();
-        void VerifyCustomerName(int customerId);
+        int CountAllCustomers();
+        List<Customer> GetAllCustomers();
+        string VerifyCustomerName(int customerId);
         void CustomerOrder(List<Customer> customer);
     }
 }
